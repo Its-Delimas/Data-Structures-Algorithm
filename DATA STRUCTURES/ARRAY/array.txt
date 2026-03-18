@@ -1,0 +1,10 @@
+# Array - most fundamental Data Structure
+collection of elements stored in contiguous memory, each accessible by an index.
+
+###
+Key properties:
+
+Index starts at 0
+Access any element in O(1) time (instant)
+Inserting or deleting in the middle is O(n) (you shift things)
+Fixed size in some languages (C, Java), dynamic in others (Python, JS)
