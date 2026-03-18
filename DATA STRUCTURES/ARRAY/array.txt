@@ -4,7 +4,14 @@ collection of elements stored in contiguous memory, each accessible by an index.
 ###
 Key properties:
 
-Index starts at 0
-Access any element in O(1) time (instant)
-Inserting or deleting in the middle is O(n) (you shift things)
-Fixed size in some languages (C, Java), dynamic in others (Python, JS)
+`Index starts at 0
+`Access any element in O(1) time (instant)
+`Inserting or deleting in the middle is O(n) (you shift things)
+`Fixed size in some languages (C, Java), dynamic in others (Python, JS)
+
+
+###
+from Q! and Q2
+Two patterns to remember
+ Track a running value ~ Keep a variable that updates as you loopExercise 1 (max)
+ Two pointers ~ Left + right closing inward ~ Exercise 2 (reverse)
