@@ -11,7 +11,7 @@ s.split(" ") //["s","p","c""..."]
 
 
 // string immutability ~ split then join
-let s ="hello";
-let arr = s.split("");
-arr[0] = "x";
-let result = arr.join("")
+// let s ="hello";
+// let arr = s.split("");
+// arr[0] = "x";
+// let result = arr.join("")
