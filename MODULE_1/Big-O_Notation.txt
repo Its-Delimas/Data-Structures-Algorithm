@@ -1,0 +1,6 @@
+O(1) — constant. Doesn't matter how big n is, same work. E.g. accessing arr[5].
+O(log n) — logarithmic. Cuts the problem in half each step. E.g. binary search.
+O(n) — linear. One pass through the data. E.g. a single for-loop over an array.
+O(n log n) — e.g. efficient sorting (merge sort, quicksort average case).
+O(n²) — quadratic. Nested loops over the same data. E.g. comparing every pair.
+O(2ⁿ) / O(n!) — exponential/factorial. Avoid these for large n. E.g. naive recursive Fibonacci.
