@@ -14,3 +14,5 @@ function twoSum(arr: number[], target: number): [number, number] | null {
   }
   return null;
 }
+
+// Time complexisty: O(n), Space complexity: O(1)
