@@ -11,3 +11,5 @@ function twoPointer(num: number[], target: number): [number, number] | null {
   }
   return null;
 }
+
+// O(n) time, O(n) space.
