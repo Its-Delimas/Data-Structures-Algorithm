@@ -1,0 +1,13 @@
+Core operations and their complexities
+#   Map:
+
+map.set(key,val)
+map.get(key)
+map.has(key)
+map.delete(key)
+
+#   Set:
+
+set.add(val)
+set.has(val)
+set.delete(val)

@@ -1,5 +1,6 @@
-Big-O notation (time/space complexity)
-Arrays & Strings (two pointers, sliding window)
+<!-- Big-O notation (time/space complexity) -->
+<!-- Arrays & Strings (two pointers, sliding window) -->
+
 Hash Maps/Sets
 Linked Lists
 Stacks & Queues
