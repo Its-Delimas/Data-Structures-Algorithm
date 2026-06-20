@@ -4,7 +4,7 @@
 
 <!-- Hash Maps/Sets -->
 
-Linked Lists
+Linked Lists & CLASSES (OOP Concepts)
 Stacks & Queues
 Recursion
 Trees (BST, traversals)
